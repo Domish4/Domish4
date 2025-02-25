@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/aleksandra-domish/">
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="t.me/Domish4">
+  <a href="https://t.me/Domish4">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
  <a href="mailto:dom.levchenko.l7@gmail.com">
@@ -29,7 +29,6 @@
 - :telescope: На данный момент нахожусь в активном поиске работы. 
 - :seedling: Сейчас изучаю Go и Backend в целом
 - :zap: Свободное время отдаю пет-проектам, совершенствую английский, а еще люблю настольные игры и видеоигры
-
 
 
 
